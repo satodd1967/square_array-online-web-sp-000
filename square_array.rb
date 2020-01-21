@@ -4,5 +4,5 @@ def test(array)
   array.each do |squares|
    new_array = squares**2
    end
-   new_array
 end
+new_array
